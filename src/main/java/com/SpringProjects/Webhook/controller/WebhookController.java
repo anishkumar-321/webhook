@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/webhook")
-//Now i Wnt the WebHook to be Triggered man at any how by the way!
+//Now i Wnt the WebHook to be Triggered man at any !
 public class WebhookController {
 
     @PostMapping
